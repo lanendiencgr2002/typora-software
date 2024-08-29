@@ -1,0 +1,8 @@
+md文件路劲: C:/Users/11923/Documents
+图片路劲: C:/Users/11923/AppData/Roaming/Typora/typora-user-images
+图片路劲跟md文件名一样的: C:/Users/11923/Documents
+md压缩包名字: md压缩包
+打包后的路劲: E:/学习笔记/最新笔记
+md文件压缩包名字: md压缩包
+md图片1压缩包名字: 图片
+md图片2压缩包名字: 图片2
